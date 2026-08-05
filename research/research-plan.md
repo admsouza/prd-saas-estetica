@@ -36,6 +36,31 @@ Quais problemas operacionais, financeiros e de relacionamento mais prejudicam a 
 4. Pesquisa de reclamações e avaliações públicas;
 5. Benchmark de soluções concorrentes.
 
+## Evidências públicas
+
+Antes das entrevistas, analisar fontes como:
+
+- Reclame Aqui;
+- Google Reviews;
+- Doctoralia;
+- avaliações em lojas de aplicativos;
+- fóruns e redes sociais relevantes.
+
+Objetivos dessa etapa:
+
+- identificar padrões recorrentes;
+- formular hipóteses melhores;
+- orientar o roteiro das entrevistas;
+- descobrir exceções e situações de falha;
+- evitar tratar desejos internos como necessidades comprovadas.
+
+### Limites
+
+- Reclamações públicas não representam estatisticamente todo o mercado;
+- Fontes públicas mostram principalmente a visão do paciente;
+- A recorrência de uma reclamação valida a existência provável da dor, não a solução proposta;
+- Dores internas de financeiro, estoque, equipe e indicadores exigem pesquisa direta com a clínica.
+
 ## Critérios de priorização
 
 Cada dor receberá nota de 1 a 5 para:
@@ -54,7 +79,8 @@ Cada dor receberá nota de 1 a 5 para:
 - Não apresentar a solução antes de compreender o problema;
 - Separar evidência de interpretação;
 - Registrar contradições e casos negativos;
-- Não considerar uma lista de desejos como validação.
+- Não considerar uma lista de desejos como validação;
+- Uma reclamação recorrente representa uma hipótese forte de problema, nunca uma confirmação da solução.
 
 ## Saídas esperadas
 
