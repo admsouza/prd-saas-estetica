@@ -1,6 +1,6 @@
 # User stories iniciais
 
-Estas histórias derivam de hipóteses de dor. Antes da validação, não representam compromisso de implementação.
+Estas histórias derivam de hipóteses e evidências de dor. Antes da validação suficiente, não representam compromisso de implementação.
 
 ## Atendimento e agenda
 
@@ -28,11 +28,23 @@ Relacionada a: DP-02.
 
 Relacionada a: DP-02.
 
-## Pacotes e prontuário
+### US-015 — Controlar capacidade futura
+
+**Como** gestora, **quero** comparar sessões vendidas com a capacidade futura da agenda, **para** evitar vender tratamentos que a clínica não conseguirá atender nos intervalos adequados.
+
+Relacionada a: DP-11.
+
+### US-016 — Priorizar reagendamento causado pela clínica
+
+**Como** recepcionista, **quero** colocar pacientes afetados por cancelamentos internos em uma fila prioritária, **para** reagendá-los antes de liberar os horários para novos clientes.
+
+Relacionada a: DP-12.
+
+## Pacotes, contratos e prontuário
 
 ### US-005 — Controlar sessões
 
-**Como** recepcionista, **quero** consultar sessões contratadas, realizadas e restantes, **para** evitar divergências com o paciente.
+**Como** recepcionista, **quero** consultar sessões contratadas, realizadas, canceladas, perdidas e restantes, **para** evitar divergências com o paciente.
 
 Relacionada a: DP-03.
 
@@ -47,6 +59,18 @@ Relacionada a: DP-04.
 **Como** profissional, **quero** registrar fotos padronizadas vinculadas ao prontuário, **para** acompanhar resultados com segurança e organização.
 
 Relacionada a: DP-04.
+
+### US-017 — Entender consequências do cancelamento
+
+**Como** paciente, **quero** visualizar as regras e consequências antes de cancelar, faltar ou reagendar uma sessão, **para** tomar uma decisão consciente.
+
+Relacionada a: DP-13.
+
+### US-018 — Consultar histórico auditável da sessão
+
+**Como** paciente, **quero** consultar o histórico de alterações e consumo de cada sessão, **para** compreender por que meu saldo foi modificado.
+
+Relacionada a: DP-03 e DP-13.
 
 ## Financeiro, estoque e equipe
 
@@ -74,7 +98,19 @@ Relacionada a: DP-08.
 
 Relacionada a: DP-09.
 
-## Relacionamento e gestão
+### US-019 — Acompanhar cancelamento e reembolso
+
+**Como** paciente, **quero** acompanhar status, prazo e responsável pelo meu cancelamento ou reembolso, **para** não depender de contatos repetidos com diferentes setores.
+
+Relacionada a: DP-14.
+
+### US-020 — Gerenciar solicitações de reembolso
+
+**Como** responsável financeiro, **quero** receber solicitações de reembolso com documentação, responsável, prazo e histórico, **para** tratar cada caso de forma rastreável.
+
+Relacionada a: DP-14.
+
+## Relacionamento, segurança e gestão
 
 ### US-012 — Recuperar pacientes sem retorno
 
@@ -94,6 +130,18 @@ Relacionada a: DP-07.
 
 Relacionada a: DP-10.
 
+### US-021 — Registrar intercorrência clínica
+
+**Como** profissional, **quero** abrir uma intercorrência vinculada ao paciente e ao procedimento, com fotos, sintomas, orientações e responsáveis, **para** garantir continuidade e segurança no atendimento.
+
+Relacionada a: DP-15.
+
+### US-022 — Acompanhar evolução de intercorrência
+
+**Como** responsável técnico, **quero** acompanhar retornos, evolução e pendências de intercorrências abertas, **para** evitar que casos clínicos fiquem sem acompanhamento.
+
+Relacionada a: DP-15.
+
 ## Próximo passo
 
-Cada história deverá receber critérios de aceitação somente após a dor correspondente alcançar evidência moderada ou forte.
+Cada história deverá receber critérios de aceitação somente após a dor correspondente alcançar evidência moderada ou forte e a oportunidade de solução ser validada.
